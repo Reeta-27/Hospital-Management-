@@ -22,11 +22,6 @@ This project is a Hospital Management System developed to streamline and manage 
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/abhishek250802/Hospital-management.git
-   ```
-
-
 
 2. **Set up the database**:
 
@@ -60,4 +55,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-[1]: [https://github.com/abhishek250802/Hospital-management.git]
+
